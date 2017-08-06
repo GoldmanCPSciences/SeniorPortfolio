@@ -1,0 +1,20 @@
+1. Expr.scala: this beast of a project took a huge amount of time to complete and challenged my way of thinking. The idea for this project was to abstract a “mini” interpreter for the Scala language using only recursive case matching. The idea was that we could have our own terms and define them in the interpreter (even though some of the terms were already implemented by the language). This project was done primarily as a pair with another coder, but also by myself. 
+
+This project taught me a lot about how IDE’s work and how the programming language is put together and matched for compiling, a very low level look at coding. It also taught me to rely on my partner to help me with the project and to help me understand what was going on. Also, learning a completely recursive way to program was very interesting, and it taught me to use recursion in a better context than I was previously taught. Up until this point, it was a neat trick to make some programs go faster. Now I know it can be used in a variety of different places to make easier to understand programs. Me and my partner also had to do extensive testing and eventually programmed merge sort through this mini interpreter. This was also made using a new language that I had to learn fairly fast. 
+
+2. “Scalability Techniques for Practical Synchronization Primitives: Designing Locking Primitives With Performance in Mind”: this article was a reading assignment that was for computer architecture class. I have the presentation on my GitHub profile, but the reference is at the end of the presentation. This paper was not only hard to understand requiring several read-throughs to be able to present on, but was also about how cores handle processes through locking and how bad lock design can severely affect performance
+
+This article opened my eyes to the problems of locking and expanded my knowledge of another paper I read in an earlier class about how the linux scheduler was flawed. 
+
+3. Chat Room Server: This network programming assignment took a lot of collaboration with the rest of the class to agree on features to implement. I view this as a group project because even though the programming was done on a pair level, we still had to agree on features that would be used by everyone in the class so any chat room application could communicate without problems to any other chat room application. 
+
+This taught me a lot about software design and testing as well as the importance of having everyone implementing the same protocols so that the programs could interact with one another. This also taught me about how computers talk at the network level and how information is interpreted by the network. 
+
+4. Virtual Memory: this assignment was for my Operating systems class and the assignment was to make a virtual memory manager that handles paging and addressing in c. 
+
+This program was done individually and I got a lot of help from a lot of different classmates. I had a hard time with this program and I learned a lot about how paging and translating works, as well as making a tlb table and how memory works. 
+
+5. PHP practice: this assignment was to get information from a database. This was done in PHP and HTML. 
+
+I had a hard time with this assignment and I had to experiment with PHP and HTML. Learning to connect to a database was interesting and I’m glad I was able to pull it off. This shows that I know sql queries and how to set up PHP and HTML pages for pulling information from databases. 
+
